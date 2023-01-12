@@ -1,5 +1,5 @@
 // Import stylesheets
-import './style.css';
+import './style.css' assert { type: 'css' };
 
 // Write Javascript code!
 // const appDiv = document.getElementById('app');
