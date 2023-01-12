@@ -6,3 +6,4 @@
 // appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 console.log('hola');
+document.write("hola")
