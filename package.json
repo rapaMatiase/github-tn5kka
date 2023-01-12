@@ -1,14 +1,12 @@
 {
-  "name": "lib-example",
-  "version": "1.0.0",
-  "license": "MIT",
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "start": "node index.js"
   },
   "stackblitz": {
     "startCommand": "npm start"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "dependencies": {}
 }
