@@ -1,7 +1,0 @@
-{
-  "installDependencies": false,
-  "startCommand": "my-custom-command",
-  "env": {
-    "NODE_ENV": "development"
-  }
-}

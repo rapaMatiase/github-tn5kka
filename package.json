@@ -4,5 +4,8 @@
   "license": "MIT",
   "stackblitz": {
     "startCommand": "npm start"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
